@@ -34,6 +34,11 @@ Responsive grid layout
 - http://suprb.com/apps/gridalicious/
 - https://github.com/suprb/Grid-A-Licious
 
+### Uptime Robot
+Monitors your websites every 5 minutes, totally free.
+
+- http://www.uptimerobot.com/
+
 Data
 ----
 ### Open KeyVal
