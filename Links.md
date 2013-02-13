@@ -84,6 +84,7 @@ Scala
 - [SORM An elegant and scalable way to do persistence in Scala](http://sorm-framework.org/)
 - [Scala School](http://twitter.github.com/scala_school/)
 - [ScalaTest](http://www.scalatest.org/)
+- [Effective Scala](http://twitter.github.com/effectivescala/)
 
 Data
 ----
