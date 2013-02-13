@@ -85,6 +85,7 @@ Scala
 - [Scala School](http://twitter.github.com/scala_school/)
 - [ScalaTest](http://www.scalatest.org/)
 - [Effective Scala](http://twitter.github.com/effectivescala/)
+- [Scala with Guice](http://php.jglobal.com/blog/?p=941)
 
 Data
 ----
