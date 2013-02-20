@@ -20,6 +20,12 @@ The exceptionally handsome dashboard framework.
 - http://shopify.github.com/dashing/
 - http://dashingdemo.herokuapp.com/sample
 
+### FnordMetric
+
+Custom real-time dashboards
+
+- http://fnordmetric.io/
+
 ### Gridster
 
 Dragable grid elements
@@ -69,6 +75,8 @@ Node.js
 - [Node && CoffeeScript && Heroku](http://whittle.github.com/node-coffee-heroku-tutorial/)
 - [npm - Packages / Rankings](https://npmjs.org/)
 - [Search - Elastical - GitHub](https://github.com/rgrove/node-elastical)
+- [Using Node.js to Build Great Streaming Services](http://youtu.be/dcsVyRVvpAw)
+- [Blazing fast node.js: 10 performance tips from LinkedIn Mobile](http://engineering.linkedin.com/nodejs/blazing-fast-nodejs-10-performance-tips-linkedin-mobile)
 
 - [CoffeeScript](http://coffeescript.org/)
 
@@ -90,6 +98,9 @@ Node.js
 - [DB Migrate](https://npmjs.org/package/db-migrate)
 - [Vows - Asynchronous behaviour driven development for Node](http://vowsjs.org/)
 - [java - Bridge API to connect with existing Java APIs](https://npmjs.org/package/java)
+- [async - async helpers](https://npmjs.org/package/async)
+- [cluster - extensible multi-core server management for nodejs](http://learnboost.github.com/cluster/)
+- [meteor - an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.](http://meteor.com/main)
 
 ### Tutorials
 
