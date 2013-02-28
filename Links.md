@@ -121,6 +121,10 @@ Scala
 - [Scala School](http://twitter.github.com/scala_school/)
 - [ScalaTest](http://www.scalatest.org/)
 - [Effective Scala](http://twitter.github.com/effectivescala/)
+- HPaste - Scala DSL for HBase
+	- [Github](http://www.gravity.com/labs/hpaste)
+	- [Gravit Labs](http://www.gravity.com/labs/hpaste)
+	- [Blog Post](http://qslack.com/2012/04/discovered-hpaste-a-great-scala-dsl-for-hbase/)
 
 ### With Guice
 
